@@ -1,6 +1,6 @@
 # ember-focus
 
-[Short description of the addon.]
+Comprehensive focus management layer for Ember apps. Uses Tabster.io heavily at the moment.
 
 ## Compatibility
 

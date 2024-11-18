@@ -1,13 +1,13 @@
 {
   "name": "ember-focus",
-  "version": "0.0.0",
-  "description": "The default blueprint for Embroider v2 addons.",
+  "version": "0.0.1",
+  "description": "Comprehensive focus management layer for Ember apps",
   "keywords": [
     "ember-addon"
   ],
   "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": "David Baker <acorncom@gmail.com>",
   "exports": {
     ".": "./dist/index.js",
     "./*": "./dist/*.js",
